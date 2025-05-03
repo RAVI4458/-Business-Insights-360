@@ -1,5 +1,5 @@
 
-### Business Insights 360
+# Business Insights 360
 
 Checkout my interactive dashboard here: (click on the home button to discover)
 
@@ -14,7 +14,7 @@ To stay competitive with rivals using advanced analytics, AltiQ decided to adopt
 I contributed to this project by applying skills from the Codebasics Power BI Course. I helped build interactive dashboards and reports that gave stakeholders a better understanding of business performance and supported smarter decisions. ✅
 
 
-#  🛠 Key Skills & Tools Used
+###  🛠 Key Skills & Tools Used
 
 This project required me to apply and strengthen a wide range of Power BI skills and techniques, including:
 
