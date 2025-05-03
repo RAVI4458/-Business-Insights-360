@@ -88,7 +88,8 @@ Executive Panel
 
 ## Home Page 
 
------image ------
+![Untitled design](https://github.com/user-attachments/assets/ea7e26ab-67ff-4e7e-ae0a-7ae4f1aa5841)
+
 
 ### Finance Overview  
 The Finance View provides a comprehensive breakdown of key financial metrics like Net Sales, Gross Margin, and Net Profit %, along with profit and loss trends over time and performance by region and product segment for FY 2022.
