@@ -1,6 +1,8 @@
 
 # Business Insights 360
 
+
+### Live Dashboard 
 Checkout my interactive dashboard here: (click on the home button to discover)
 
 
@@ -174,7 +176,9 @@ The Business Insights 360 project offers a seamless, data-centric, and user-frie
 
 
 
-### Explore the Live dashboard 
+### Explore
+linkedin Profile - https://www.linkedin.com/in/ravi-kumar-794a7828b/
+
 
 
 
