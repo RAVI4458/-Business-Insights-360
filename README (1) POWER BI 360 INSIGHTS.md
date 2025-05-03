@@ -66,6 +66,9 @@ Key financial metrics are captured in: freight_cost, gross_price, manufacturing_
 
 🔹 Maintained accurate table linkages to ensure reliable and meaningful analysis
 
+![Untitled design (8)](https://github.com/user-attachments/assets/0b35cf1d-ebea-4922-ae6a-1d59d9ddd587)
+
+
 
 
 ### 🛠  Power BI Analytics Overview
@@ -94,29 +97,34 @@ Executive Panel
 ### Finance Overview  
 The Finance View provides a comprehensive breakdown of key financial metrics like Net Sales, Gross Margin, and Net Profit %, along with profit and loss trends over time and performance by region and product segment for FY 2022.
 
------ image -------------
+![Untitled design (2)](https://github.com/user-attachments/assets/1f6f781d-91f7-4efe-8e7a-fa4f8d607f89)
+
 
 
 ### Sales  Overview  
 The Sales View highlights customer and product performance, regional profitability, and unit economics, enabling detailed analysis of sales volume, gross margins, and top-performing segments for strategic decision-making.
 
------ image--------
+![Untitled design (3)](https://github.com/user-attachments/assets/3e8a3940-a839-48da-884c-a701b7db2abb)
+
 
 ### Marketing  Overview  
 The Marketing View offers a deep dive into product, division, and regional performance, helping assess profitability trends, gross margin contributions, and customer segment insights to guide marketing strategies.
 
---image ---
+![Untitled design (4)](https://github.com/user-attachments/assets/1c57d6bb-2dc1-4d26-b34c-960064f0bebf)
+
 
 ### Supply Chain  Overview  
 The Supply Chain View highlights forecast accuracy, net error trends, and product/customer-level performance, helping identify out-of-stock risks and improve demand planning efficiency.
 
-----image -------
+![Untitled design (6)](https://github.com/user-attachments/assets/46e0773c-8505-4758-9a04-37a5a90774f8)
+
 
 ### Executive   Overview  
 This executive dashboard provides a comprehensive overview of key business metrics such as net sales, gross margin, net profit, and market share trends across regions, channels, divisions, and top-performing customers and products. It highlights performance against benchmarks and identifies risks like excess inventory and out-of-stock issues.
 
 
------ image -----
+![Untitled design (7)](https://github.com/user-attachments/assets/6770bb35-fe62-4d1e-8411-1f27f6c56a32)
+
 
 
 ### 💼 Essential Business Terms
